@@ -25,6 +25,8 @@ pageClass: device-page
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 ## Notes
 
+### Pairing
+Hold down button until the led blinks first once, then twice and then release when it starts to blink continuously. This will initiate factory reset and the device should pair when close to the coordinator.
 
 ### Warning usage
 Warning only support a single mode, `burglar`
